@@ -1,0 +1,3 @@
+[submodule "KernelModule"]
+	path = KernelModule
+	url = https://github.com/YuXiang16888/KernelModule.git
